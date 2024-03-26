@@ -1,9 +1,12 @@
+# Getting the power of a number
 def large_power(base, exponent):
     result = base ** exponent
     if result > 5000:
         print('True')
     else:
         print('False')
+
+# Checking if it is divisible by ten
 
 
 def divisible_by_ten(num):
